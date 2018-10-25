@@ -1,0 +1,6 @@
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageManager\obj\Debug\MessageManager.csproj.CoreCompileInputs.cache
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageManager\bin\Debug\MessageManager.dll
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageManager\bin\Debug\MessageManager.pdb
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageManager\obj\Debug\MessageManager.dll
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageManager\obj\Debug\MessageManager.pdb
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageManager\obj\Debug\MessageManager.csprojAssemblyReference.cache

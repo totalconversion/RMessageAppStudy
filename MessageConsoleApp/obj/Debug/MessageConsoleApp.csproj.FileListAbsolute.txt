@@ -1,0 +1,12 @@
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\bin\Debug\MessageConsoleApp.exe.config
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\bin\Debug\MessageConsoleApp.exe
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\bin\Debug\MessageConsoleApp.pdb
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\obj\Debug\MessageConsoleApp.csprojAssemblyReference.cache
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\obj\Debug\MessageConsoleApp.csproj.CoreCompileInputs.cache
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\obj\Debug\MessageConsoleApp.exe
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\obj\Debug\MessageConsoleApp.pdb
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\bin\Debug\SerialPortManager.dll
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\bin\Debug\SerialPortManager.pdb
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\obj\Debug\MessageConsoleApp.csproj.CopyComplete
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\bin\Debug\MessageManager.dll
+C:\DeveloperFolder\VYurievsky\StudyProjects\MessageApp\MessageConsoleApp\bin\Debug\MessageManager.pdb

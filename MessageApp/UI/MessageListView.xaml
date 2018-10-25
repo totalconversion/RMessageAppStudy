@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="MessageApp.UI.MessageListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MessageApp.UI"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" Width="415.546">
+    <Grid>
+        <DataGrid x:Name="messageListGrid" Height="430" Margin="10,10,0,0" Width="396" >
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding State}" Value="State1">
+                            <Setter Property="Background" Value="#FFF1B3B3"></Setter>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding State}" Value="State2">
+                            <Setter Property="Background" Value="White"></Setter>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.RowStyle>
+            
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="colDateTimeOn" Header="Время" Binding="{Binding Path=DateTimeOn}" Width="90" />
+                <DataGridTextColumn x:Name="colID" Header="ID" Binding="{Binding Path=ID}" Width="80" />
+                <DataGridTextColumn x:Name="colBody" Header="Значение" Binding="{Binding Path=Body}" Width="80" />
+                <DataGridTextColumn x:Name="colIsValid" Header="Ошибка" Binding="{Binding Path=IsValid}" Width="80" />
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+    </Grid>
+</UserControl>
